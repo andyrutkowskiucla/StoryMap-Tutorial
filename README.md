@@ -1,2 +1,2 @@
-# StoryMap-Tutorial
-very basic tutorial on ArcGIS StoryMaps
+# StoryMaps-Tutorial
+very basic tutorial on using different ArcGIS StoryMaps
