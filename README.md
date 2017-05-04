@@ -1,4 +1,4 @@
-# StoryMaps-Tutorial
+# StoryMaps
 
 # http://bit.ly/2pJY6Ib
 
