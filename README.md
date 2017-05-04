@@ -1,6 +1,6 @@
 # StoryMaps-Tutorial
 
-### http://bit.ly/2pJY6Ib
+## http://bit.ly/2pJY6Ib
 
 Basic overview of StoryMaps. Use the Wiki - https://github.com/andyrutkowskiucla/StoryMap-Tutorial/wiki to get started.
 
